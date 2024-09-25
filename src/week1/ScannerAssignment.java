@@ -41,6 +41,7 @@ public class ScannerAssignment {
 		s1.sub(f1, f2);
 		s1.mul(f1, f2);
 		s1.div(f1, f2);
+		sc.close();
 
 	}
 

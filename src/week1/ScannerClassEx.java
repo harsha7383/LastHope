@@ -20,7 +20,7 @@ public class ScannerClassEx {
 		System.out.println("Enter Second Number");
 		int num2=sc.nextInt();
 		r1.add(num1, num2);
-		
+		sc.close();
 	}
 
 }
