@@ -30,6 +30,7 @@ public class String_ex {
 
 		System.out.println(s1.concat(act));
 		System.out.println(s1+" "+act);
+		System.out.println();
 	}
 
 }
