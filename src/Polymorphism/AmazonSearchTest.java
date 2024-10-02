@@ -11,6 +11,7 @@ public class AmazonSearchTest {
 		a1.search("Moto",8000);
 		a1.search("poco","mi");
 		
+		
 
 	}
 
